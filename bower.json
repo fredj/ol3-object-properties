@@ -1,0 +1,11 @@
+{
+  "name": "ol3-object-properties",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fredj/ol3-object-properties",
+  "authors": [
+    "Frederic Junod <frederic.junod@gmail.com>"
+  ],
+  "main": "dist/ol3-properties.min.js",
+  "license": "WTFPL",
+  "ignore": []
+}
